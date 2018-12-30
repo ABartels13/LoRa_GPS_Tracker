@@ -5,8 +5,8 @@ For this project I used Digital Ocean's to provide a virtual private server to h
 0. Create a private/public key.
 * I use the Windows Subsystem for Linux so I followed the example [here](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2)
  
-1. Create new project, can skip moving resources.
-![Create Project](figures/create_project.PNG)
+1. Create new project
+* Can skip moving resources
 
 2. Create a Droplet. 
 * I went for a standard $5 a month option
